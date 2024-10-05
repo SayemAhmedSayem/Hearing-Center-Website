@@ -252,7 +252,7 @@ textarea {
   background-color: #001158;
 }
 .textAligncenter{
-  text-align: center;
+  text-align: Left;
 }
 .textAligncenter ul{
   margin: 0px;
@@ -261,12 +261,15 @@ textarea {
 
 }
 .textAligncenter ul li{
-
+text-align: left;
 }
 .textAligncenter ul li img{
     height: 100px;
     margin: 0 auto;
     padding: 10px;
+}
+.footerAll{
+  margin: 0 10px;
 }
 .footerTop{
          margin: 0 auto;

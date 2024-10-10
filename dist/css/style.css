@@ -273,8 +273,8 @@ text-align: left;
     list-style: none;
     height: 500px;
     background-color: #e9ecef; }
-    
-.contentText{margin: 50px 5px;
+
+.contentText{margin: 10px 5px;
     padding: 5px;
     width: 269px !important;
     float: left;

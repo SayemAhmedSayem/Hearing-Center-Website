@@ -268,7 +268,12 @@ text-align: left;
     margin: 0 auto;
     padding: 10px;
 }
-.content{margin: 0px; padding: 0px; list-style: none; height: 500px; background-color: #e9ecef; }
+.content{margin: 0px;
+    padding-top: 20px;
+    list-style: none;
+    height: 500px;
+    background-color: #e9ecef; }
+    
 .contentText{margin: 50px 5px;
     padding: 5px;
     width: 269px !important;

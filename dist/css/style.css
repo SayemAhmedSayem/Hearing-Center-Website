@@ -274,11 +274,12 @@ text-align: left;
     height: 500px;
     background-color: #e9ecef; }
 
-.contentText{    margin: 10px 5px;
+.contentText{margin: 10px 5px;
     padding: 5px;
     width: 269px !important;
     float: left;
-    height: 221px;
+    border: 1px solid;
+    height: 211px;
     background: linear-gradient(to right,  #f77631 0%,#7db9e8 100%);
 }
 .contentRight{margin: 5px; padding: 5px; width: 500px; float: left; border:1px solid}

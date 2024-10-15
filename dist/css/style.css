@@ -279,9 +279,15 @@ text-align: left;
     width: 269px !important;
     float: left;
     border: 1px solid;
-    height: 211px;
+    height: 70%;
     background: linear-gradient(to right,  #f77631 0%,#7db9e8 100%);
+    text-align: center;
+
 }
+.contentText img{ height: 100px;
+    margin-bottom: 10px;
+    border-radius: 50px;}
+
 .contentRight{margin: 5px; padding: 5px; width: 500px; float: left; border:1px solid}
 
 .footerAll{

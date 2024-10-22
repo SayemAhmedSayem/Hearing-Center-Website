@@ -271,10 +271,12 @@ text-align: left;
 .content{margin: 0px;
     padding-top: 20px;
     list-style: none;
-    height: 500px;
+    height: 880px;
     background-color: #e9ecef; }
 
-.contentText{margin: 10px 5px;
+.contentText{
+   
+    margin: 10px 5px;
     padding: 5px;
     width: 269px !important;
     float: left;

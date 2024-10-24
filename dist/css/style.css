@@ -271,7 +271,7 @@ text-align: left;
 .content{margin: 0px;
     padding-top: 20px;
     list-style: none;
-    height: 880px;
+/*    height: 880px;*/
     background-color: #e9ecef; }
 
 .contentText{

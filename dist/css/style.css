@@ -334,7 +334,14 @@ text-align: left;
 
 .maps{width: 100%; float: left;}
 .contuctNumber{    padding: 10px;
-    background: cornsilk; padding-top: 15px;}
+    background: cornsilk; display: block;}
 .contuctNumber h4{font-weight: bold; }
-.contuctNumber img{ height: 230px;
-    float: left;}
+.contuctNumber img{     height: 230px;
+    float: left;
+    background: #e3f2fd;
+    padding: 8px;
+    margin-left: 50p;}
+.contuctNumber1{}
+.contuctNumber2{    float: right;
+    margin-right: 130px;
+    padding-top: 56px;}

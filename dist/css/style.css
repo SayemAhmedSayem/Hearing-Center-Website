@@ -335,4 +335,5 @@ text-align: left;
 .maps{width: 100%; float: left;}
 .contuctNumber{    padding: 10px;
     background: cornsilk; text-align: center; padding-top: 15px;}
-    .contuctNumber h4{font-weight: bold; }
+.contuctNumber h4{font-weight: bold; }
+.contuctNumber img{ height:100px }
